@@ -12,7 +12,7 @@ Wrap the tesxt or elements you want to hide with the Spoiler BBCode:
 ```
 
 ### Screenshot
-![Imgur](https://i.imgur.com/SFT5vxZ.gifv)
+![Imgur](https://i.imgur.com/SFT5vxZ.gif)
 
 ### Installation
 
