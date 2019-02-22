@@ -1,0 +1,38 @@
+{
+  "name": "kvothe/spoiler-bbcode",
+  "description": "Adds a [Spoiler] BBCode.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Kvothe",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kvothe\\SpoilerBBCode\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Spoiler BBCode",
+      "icon": {
+        "image": "resources/logo.png",
+        "backgroundSize": "90%",
+        "backgroundRepeat": "no-repeat",
+        "backgroundPosition": "center",
+        "backgroundColor": "#eee",
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
