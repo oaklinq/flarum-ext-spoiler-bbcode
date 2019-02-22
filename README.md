@@ -4,12 +4,14 @@
 
 A [Flarum](http://flarum.org) extension. Adds a [Spoiler] BBCode.
 
-### Use
-Wrap the tesxt or elements you want to hide with the Spoiler BBCode:
+### Instructions
+Wrap the text or elements you want to hide with the Spoiler BBCode:
 
 ```
 [SPOILER]Your Text.[/SPOILER]
 ```
+
+To change the text of the spoiler warning use [Flagrow Linguist](https://github.com/flagrow/linguist).
 
 ### Screenshot
 ![Imgur](https://i.imgur.com/SFT5vxZ.gif)
