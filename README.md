@@ -34,3 +34,4 @@ php flarum cache:clear
 ### Links
 
 - [Packagist](https://packagist.org/packages/kvothe/spoiler-bbcode)
+- [GitHub](https://github.com/oaklinq/flarum-ext-spoiler-bbcode)
